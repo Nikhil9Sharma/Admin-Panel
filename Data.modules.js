@@ -1,0 +1,1 @@
+push data module file of admin panel
